@@ -1,0 +1,25 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url /https-hw",
+    "pre-start": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana7770/async-await.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana7770/async-await/issues"
+  },
+  "homepage": "https://github.com/diana7770/async-await#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
