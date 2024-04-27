@@ -1,6 +1,6 @@
 5864
 79C:\Users\Admin\Documents\GitHub\async-await\node_modules\@swc\core\binding.d.ts133585263964720544 0
-48C:\Users\Admin\Documents\GitHub\async-await\dist133585312022453522 1
+48C:\Users\Admin\Documents\GitHub\async-await\dist133586731844607052 1
 74C:\Users\Admin\Documents\GitHub\async-await\node_modules\svgo\lib\style.js133585263969497454 0
 103C:\Users\Admin\Documents\GitHub\async-await\node_modules\@babel\highlight\node_modules\has-flag\license133585263938005374 0
 85C:\Users\Admin\Documents\GitHub\async-await\node_modules\escape-string-regexp\license133585263937545645 0
@@ -48,7 +48,7 @@
 70C:\Users\Admin\Documents\GitHub\async-await\node_modules\lmdb\write.js133585264006522349 0
 130C:\Users\Admin\Documents\GitHub\async-await\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\AttributeSelector.js133585263959230862 0
 100C:\Users\Admin\Documents\GitHub\async-await\node_modules\@parcel\transformer-js\src\JSTransformer.js133585263947829920 0
-52C:\Users\Admin\Documents\GitHub\async-await\index.js133585305485337854 0
+52C:\Users\Admin\Documents\GitHub\async-await\index.js133586731820331490 0
 108C:\Users\Admin\Documents\GitHub\async-await\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133585263939044793 0
 73C:\Users\Admin\Documents\GitHub\async-await\node_modules\json5\lib\cli.js133585263918943442 0
 59C:\Users\Admin\Documents\GitHub\async-await\dist\index.html133585311421739862 0
@@ -5397,7 +5397,7 @@
 111C:\Users\Admin\Documents\GitHub\async-await\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\README.md133585263995157908 0
 135C:\Users\Admin\Documents\GitHub\async-await\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\addClassesToSVGElement.js133585263953451238 0
 125C:\Users\Admin\Documents\GitHub\async-await\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupAttrs.js133585263954550597 0
-70C:\Users\Admin\Documents\GitHub\async-await\dist\index.c36f364e.js.map133585311422139612 0
+70C:\Users\Admin\Documents\GitHub\async-await\dist\index.c36f364e.js.map133586731844577064 0
 136C:\Users\Admin\Documents\GitHub\async-await\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupEnableBackground.js133585263955400116 0
 133C:\Users\Admin\Documents\GitHub\async-await\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupNumericValues.js133585263962219684 0
 127C:\Users\Admin\Documents\GitHub\async-await\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\collapseGroups.js133585263965699275 0
@@ -5861,5 +5861,5 @@
 72C:\Users\Admin\Documents\GitHub\async-await\node_modules\.bin\semver.cmd133585264051090571 0
 66C:\Users\Admin\Documents\GitHub\async-await\node_modules\.bin\svgo133585264051090571 0
 88C:\Users\Admin\Documents\GitHub\async-await\node_modules\.bin\update-browserslist-db.ps1133585264051100370 0
-66C:\Users\Admin\Documents\GitHub\async-await\dist\index.c36f364e.js133585311421709869 0
 76C:\Users\Admin\Documents\GitHub\async-await\dist\async-await.3464ddca.js.map133585311422139612 0
+66C:\Users\Admin\Documents\GitHub\async-await\dist\index.c36f364e.js133586731843257847 0

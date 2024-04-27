@@ -32,9 +32,9 @@ const createElements = (elements)=>{
 btnLoadMore.addEventListener("click", loadMorePictures);
 searchBtn.addEventListener("click", ()=>{
     gallery.innerHTML = "";
-    currentPage = 1; // Reset current page when new search is performed
+    currentPage = 1;
     loadMorePictures();
 });
-fetchPictures(""); // Initial fetch, you can pass an initial search term here if needed
+fetchPictures("");
 
 //# sourceMappingURL=index.c36f364e.js.map
