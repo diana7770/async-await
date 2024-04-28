@@ -4,7 +4,6 @@ const btnLoadMore = document.querySelector(".load_more");
 const searchBtn = document.querySelector(".search__btn");
 const searchInput = document.querySelector(".search__input");
 
-let find = "";
 let perPage = 12;
 let currentPage = 1;
 
@@ -38,6 +37,13 @@ const createElements = (elements) => {
 btnLoadMore.addEventListener("click", loadMorePictures);
 
 searchBtn.addEventListener("click", () => {
+  gallery.innerHTML = "";
+  currentPage = 1;
+  loadMorePictures();
+});
+
+form.addEventListener("submit", (event) => {
+  event.preventDefault(); 
   gallery.innerHTML = "";
   currentPage = 1;
   loadMorePictures();
